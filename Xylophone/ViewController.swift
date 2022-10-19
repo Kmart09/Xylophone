@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  Xylophone
 //
-//  Created by Angela Yu on 28/06/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Kyle Martinez on 9/21/2022.
 //
 
 import UIKit
@@ -19,7 +18,6 @@ class ViewController: UIViewController {
     }
     
     @IBAction func keyPressed(_ sender: UIButton) {
-        
         playSound(soundName: sender.currentTitle!)
         
         //Reduces the sender's (the button that got pressed) opacity to half.
@@ -34,7 +32,7 @@ class ViewController: UIViewController {
     }
     
     func playSound(soundName: String) {
-        let url = Bundle.main.url(forResource: soundName, withExtension: "wav")
+        let url = Bundle.main.url(forResource: soundName, withExtension: "m4a")
         player = try! AVAudioPlayer(contentsOf: url!)
         player.play()
         

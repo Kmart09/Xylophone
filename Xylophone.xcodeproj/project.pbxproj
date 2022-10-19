@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5215746228F8632B00E3188F /* Kris.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 5215745F28F83C5500E3188F /* Kris.m4a */; };
+		521B2B3F29006777009A2BF4 /* Alex.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 521B2B3529006766009A2BF4 /* Alex.m4a */; };
+		521B2B4029006777009A2BF4 /* Iron Man.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 521B2B3629006769009A2BF4 /* Iron Man.m4a */; };
+		521B2B4329006777009A2BF4 /* Hulk.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 521B2B392900676C009A2BF4 /* Hulk.m4a */; };
+		521B2B4429006778009A2BF4 /* Spider Man.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 521B2B3A2900676E009A2BF4 /* Spider Man.m4a */; };
+		521B2B4529006778009A2BF4 /* Jake.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 521B2B3B29006770009A2BF4 /* Jake.m4a */; };
+		521B2B4629006778009A2BF4 /* Alien.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 521B2B3C29006772009A2BF4 /* Alien.m4a */; };
+		521B2B4729006778009A2BF4 /* Max.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 521B2B3D29006775009A2BF4 /* Max.m4a */; };
+		521B2B4829006778009A2BF4 /* Riley.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 521B2B3E29006777009A2BF4 /* Riley.m4a */; };
 		AD937BF622C61DBB002E2D88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF522C61DBB002E2D88 /* AppDelegate.swift */; };
 		AD937BF822C61DBB002E2D88 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */; };
 		AD937BFA22C61DBB002E2D88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF922C61DBB002E2D88 /* ViewController.swift */; };
@@ -14,16 +23,18 @@
 		AD937BFF22C61DBE002E2D88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD937BFE22C61DBE002E2D88 /* Assets.xcassets */; };
 		ADE587E922CB4D36007F0F9A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ADE587E822CB4D36007F0F9A /* README.md */; };
 		ADE587EB22CB5121007F0F9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADE587EA22CB5121007F0F9A /* LaunchScreen.storyboard */; };
-		ADE587F322CB513D007F0F9A /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587EC22CB513C007F0F9A /* A.wav */; };
-		ADE587F422CB513D007F0F9A /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587ED22CB513C007F0F9A /* G.wav */; };
-		ADE587F522CB513D007F0F9A /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587EE22CB513C007F0F9A /* C.wav */; };
-		ADE587F622CB513D007F0F9A /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587EF22CB513D007F0F9A /* E.wav */; };
-		ADE587F722CB513D007F0F9A /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F022CB513D007F0F9A /* F.wav */; };
-		ADE587F822CB513D007F0F9A /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F122CB513D007F0F9A /* B.wav */; };
-		ADE587F922CB513D007F0F9A /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = ADE587F222CB513D007F0F9A /* D.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5215745F28F83C5500E3188F /* Kris.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = Kris.m4a; path = "../../../Scary Faces/Scary Faces/Sounds/Kris.m4a"; sourceTree = "<group>"; };
+		521B2B3529006766009A2BF4 /* Alex.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Alex.m4a; sourceTree = "<group>"; };
+		521B2B3629006769009A2BF4 /* Iron Man.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Iron Man.m4a"; sourceTree = "<group>"; };
+		521B2B392900676C009A2BF4 /* Hulk.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Hulk.m4a; sourceTree = "<group>"; };
+		521B2B3A2900676E009A2BF4 /* Spider Man.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Spider Man.m4a"; sourceTree = "<group>"; };
+		521B2B3B29006770009A2BF4 /* Jake.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Jake.m4a; sourceTree = "<group>"; };
+		521B2B3C29006772009A2BF4 /* Alien.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Alien.m4a; sourceTree = "<group>"; };
+		521B2B3D29006775009A2BF4 /* Max.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Max.m4a; sourceTree = "<group>"; };
+		521B2B3E29006777009A2BF4 /* Riley.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Riley.m4a; sourceTree = "<group>"; };
 		AD937BF222C61DBB002E2D88 /* Xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD937BF522C61DBB002E2D88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -33,13 +44,6 @@
 		AD937C0322C61DBE002E2D88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ADE587E822CB4D36007F0F9A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ADE587EA22CB5121007F0F9A /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		ADE587EC22CB513C007F0F9A /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
-		ADE587ED22CB513C007F0F9A /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
-		ADE587EE22CB513C007F0F9A /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
-		ADE587EF22CB513D007F0F9A /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
-		ADE587F022CB513D007F0F9A /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
-		ADE587F122CB513D007F0F9A /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
-		ADE587F222CB513D007F0F9A /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,13 +92,15 @@
 		ADE587FA22CB5141007F0F9A /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				ADE587EE22CB513C007F0F9A /* C.wav */,
-				ADE587F222CB513D007F0F9A /* D.wav */,
-				ADE587EF22CB513D007F0F9A /* E.wav */,
-				ADE587F022CB513D007F0F9A /* F.wav */,
-				ADE587ED22CB513C007F0F9A /* G.wav */,
-				ADE587EC22CB513C007F0F9A /* A.wav */,
-				ADE587F122CB513D007F0F9A /* B.wav */,
+				521B2B3C29006772009A2BF4 /* Alien.m4a */,
+				521B2B3529006766009A2BF4 /* Alex.m4a */,
+				521B2B392900676C009A2BF4 /* Hulk.m4a */,
+				521B2B3629006769009A2BF4 /* Iron Man.m4a */,
+				521B2B3B29006770009A2BF4 /* Jake.m4a */,
+				521B2B3D29006775009A2BF4 /* Max.m4a */,
+				521B2B3E29006777009A2BF4 /* Riley.m4a */,
+				521B2B3A2900676E009A2BF4 /* Spider Man.m4a */,
+				5215745F28F83C5500E3188F /* Kris.m4a */,
 			);
 			path = Sounds;
 			sourceTree = "<group>";
@@ -127,7 +133,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
-				ORGANIZATIONNAME = "The App Brewery";
+				ORGANIZATIONNAME = kmart;
 				TargetAttributes = {
 					AD937BF122C61DBB002E2D88 = {
 						CreatedOnToolsVersion = 11.0;
@@ -157,16 +163,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADE587F722CB513D007F0F9A /* F.wav in Resources */,
-				ADE587F422CB513D007F0F9A /* G.wav in Resources */,
+				521B2B4629006778009A2BF4 /* Alien.m4a in Resources */,
 				AD937BFF22C61DBE002E2D88 /* Assets.xcassets in Resources */,
 				ADE587EB22CB5121007F0F9A /* LaunchScreen.storyboard in Resources */,
+				521B2B4529006778009A2BF4 /* Jake.m4a in Resources */,
+				521B2B4329006777009A2BF4 /* Hulk.m4a in Resources */,
 				ADE587E922CB4D36007F0F9A /* README.md in Resources */,
-				ADE587F922CB513D007F0F9A /* D.wav in Resources */,
-				ADE587F522CB513D007F0F9A /* C.wav in Resources */,
-				ADE587F822CB513D007F0F9A /* B.wav in Resources */,
-				ADE587F322CB513D007F0F9A /* A.wav in Resources */,
-				ADE587F622CB513D007F0F9A /* E.wav in Resources */,
+				5215746228F8632B00E3188F /* Kris.m4a in Resources */,
+				521B2B4829006778009A2BF4 /* Riley.m4a in Resources */,
+				521B2B4729006778009A2BF4 /* Max.m4a in Resources */,
+				521B2B3F29006777009A2BF4 /* Alex.m4a in Resources */,
+				521B2B4429006778009A2BF4 /* Spider Man.m4a in Resources */,
+				521B2B4029006777009A2BF4 /* Iron Man.m4a in Resources */,
 				AD937BFD22C61DBB002E2D88 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,14 +324,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UTQ8F862FS;
 				INFOPLIST_FILE = Xylophone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.Xylophone;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kmart.Xylophone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -333,14 +344,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = UTQ8F862FS;
 				INFOPLIST_FILE = Xylophone/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.Xylophone;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kmart.Xylophone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
